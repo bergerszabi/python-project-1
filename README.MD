@@ -1,1 +1,1 @@
-blablabla
+This is a milestone project. Tick-tack-to game.
